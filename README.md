@@ -1,7 +1,5 @@
 # YouTube Video Downloader
 
-[YouTube Video Downloader]
-
 A simple Python GUI application using tkinter and yt-dlp to download YouTube videos.
 
 ## Overview
