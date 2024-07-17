@@ -64,13 +64,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
-### Notes:
-
-- Replace `yourusername` in the clone command with your GitHub username or organization name.
-- Replace `youtube-downloader.png`, `screenshot.png`, and adjust paths accordingly based on your actual image and screenshot files.
-- Ensure `requirements.txt` is populated with the correct dependencies as per your project's needs.
-- This Markdown file contains all the necessary sections and instructions formatted for a comprehensive README for your YouTube video downloader project. You can directly copy and paste this content into your `README.md` file in your GitHub repository.
-```
 ````
