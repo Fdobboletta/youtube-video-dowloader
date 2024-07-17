@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+dist/
+
+# Virtualenv
+venv/
+yt_downloader_env/
+virtualenv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment variables and sensitive information
+config.ini
+secrets.json
+get-pip.py
